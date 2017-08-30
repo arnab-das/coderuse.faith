@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeRuse::Daily chores of life</title>
+    <description>Daily chores of life</description>
+    <link>coderuse.faith/</link>
+    <atom:link href="coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Aug 2017 14:20:40 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2017 14:20:40 +0000</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Dumping Ground And Other Stuff</title>
+        <description>&lt;p&gt;It’s a fact that, to feel high, it’s needed to do something substantial. Whatever that may be. Last weekend, I was feeling a bit low. Then on Monday, bought one absurd domain and configured that (which normal person hosts a domain with tld “.faith”!!!). And currently writing for that site. This site is going to be a kind of dumping ground for my mind. I’m more of a thinking type. Always thinking about something. How absurd that may be. But, whatever those are, I’m thinking about them. And if something is churning, it should find some way to out. Otherwise it creates a smelly surrounding.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, Abhinav mentioned about &lt;a href=&quot;http://penzu.com&quot;&gt;Penzu&lt;/a&gt;. It’s a online diary simulator. I’ve also created something like a diary, &lt;a href=&quot;http://coderuse.com/memoirable&quot;&gt;memoirable&lt;/a&gt;. But, diaries again remains with some secrecy in a dark hole. No air or sunlight or bacteria goes there to start the decomposition. That means, no one can see or read what I’ve written. It’s not a requirement, that this should be read by people. In fact I would prefer that, no one should read (what may be a better reason to host a domain, starting with “code”, with tld “.faith”). But there is a potential proximity to be read by another person. This is the ingredient to decompose my thoughts. The mere possibility. That’s required for the stupid mind. I’ve not even configured Disqus. But anyone can contact me. There is a link. But that link is not explicit for wach of the posts. This is the thing. We have to be open about what we are thinking. Otherwise our thoughts would just be within us and create a sting of negative vibes.&lt;/p&gt;
+
+&lt;p&gt;There is a reason, old people prefer the toilets outside of the house. We should keep our “dump”ing ground as far as possible. And within the visibility of lot of other people.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+        <link>coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</link>
+        <guid isPermaLink="true">coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Regarding Motivation</title>
+        <description>&lt;p&gt;Some times comes in life, where I loose the control over it completely. I can’t stir any motivation to do anything interesting, read something new, even to go out. Just I try to finish my daily chores in some way. These are the most dreadful days. I can’t reason the coming of these phases. But they come and recently they are coming very frequently. In these times, generally I watch a TV series. Right now, I’m watching NCIS. Just watching. I’m not even trying to memorise the number of episodes I’ve watched in a season. “Prime” is remembering this for me. And when watching for a long time, sometimes, I can’t understand if I’m awake or sleeping. For some reason/malfunction of “Prime”, if I happen to open any “already watched” episode, those seem to be almost new. Though I can relate to some parts as watched. And this is quite funny actually.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+        <link>coderuse.faith/2017/08/28/regarding-motivation/</link>
+        <guid isPermaLink="true">coderuse.faith/2017/08/28/regarding-motivation/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
