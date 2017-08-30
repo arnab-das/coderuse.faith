@@ -3,11 +3,24 @@
   <channel>
     <title>CodeRuse::Daily chores of life</title>
     <description>Daily chores of life</description>
-    <link>coderuse.faith/</link>
-    <atom:link href="coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 14:20:40 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 14:20:40 +0000</lastBuildDate>
+    <link>http://coderuse.faith/</link>
+    <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Aug 2017 14:34:00 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2017 14:34:00 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Deploying Faith</title>
+        <description>&lt;p&gt;Thought that, GitHub pages will be able to handle the Jekyll page generation and deploy will be done automatically. Alas. My assumption came out to be incorrect. GitHub pages’ Jekyll generator works half heartedly only for the &lt;code class=&quot;highlighter-rouge&quot;&gt;index&lt;/code&gt; pages. Not for others. So, deleted the old repo and created a CI as in &lt;a href=&quot;http://coderuse.com&quot;&gt;coderuse.com&lt;/a&gt; in Bitbucket. Free CI on a need basis. Gives 500 mins for free to build on post check-in hook. Created password token and added in the pipeline variables. This is going to be the first check-in after the set-up. Let’s see if it works. Or will have to do more check-ins changing very little in files. Added the &lt;a href=&quot;https://gist.github.com/arnabdas/4c1e272d1aaff73a916e2c4bf8ee5325&quot;&gt;random&lt;/a&gt; Git commit messages. So, relieved that don’t have to come with new messages every time. Just &lt;code class=&quot;highlighter-rouge&quot;&gt;git random&lt;/code&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/08/30/deploying-faith/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/08/30/deploying-faith/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>Dumping Ground And Other Stuff</title>
@@ -18,8 +31,8 @@
 &lt;p&gt;There is a reason, old people prefer the toilets outside of the house. We should keep our “dump”ing ground as far as possible. And within the visibility of lot of other people.&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-        <link>coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</link>
-        <guid isPermaLink="true">coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</guid>
+        <link>http://coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</guid>
         
         <category>100-words</category>
         
@@ -31,8 +44,8 @@
         <description>&lt;p&gt;Some times comes in life, where I loose the control over it completely. I can’t stir any motivation to do anything interesting, read something new, even to go out. Just I try to finish my daily chores in some way. These are the most dreadful days. I can’t reason the coming of these phases. But they come and recently they are coming very frequently. In these times, generally I watch a TV series. Right now, I’m watching NCIS. Just watching. I’m not even trying to memorise the number of episodes I’ve watched in a season. “Prime” is remembering this for me. And when watching for a long time, sometimes, I can’t understand if I’m awake or sleeping. For some reason/malfunction of “Prime”, if I happen to open any “already watched” episode, those seem to be almost new. Though I can relate to some parts as watched. And this is quite funny actually.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-        <link>coderuse.faith/2017/08/28/regarding-motivation/</link>
-        <guid isPermaLink="true">coderuse.faith/2017/08/28/regarding-motivation/</guid>
+        <link>http://coderuse.faith/2017/08/28/regarding-motivation/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/08/28/regarding-motivation/</guid>
         
         <category>100-words</category>
         
