@@ -53,11 +53,15 @@ td { vertical-align: top; border-bottom: 1px solid #eaeaea; }
 hr { border: none; border-top: 1px solid #f7f7f7; margin: 2rem auto; }
 
 /** Clearfix */
+a, a:hover { color: #666666; text-decoration: none; border-bottom: dashed #666666 1px; }
+
+a:hover { color: #1a1a1a; border-bottom: double #666666 1px; }
+
 /** Site header */
 .site-header { border-bottom: 1px solid #eaeaea; margin-top: -2rem; max-width: 48rem; }
 .site-header p { font-size: 0.875rem; }
 
-.smallcap { font-size: 1.5rem; font-weight: bold; }
+.smallcap { font-size: 1.5rem; }
 .smallcap a, .smallcap a:hover { text-decoration: none; letter-spacing: 2px; background-color: #333; color: #eee; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.2rem; padding-bottom: 0.2rem; }
 
 /** Page content */
@@ -67,7 +71,6 @@ hr { border: none; border-top: 1px solid #f7f7f7; margin: 2rem auto; }
 .home section + section { margin-top: 2rem; max-width: 48rem; }
 
 .post-list > li { margin-bottom: 0.5rem; list-style-type: none; margin-left: -2rem; }
-.post-list > li a, .post-list > li a:hover { color: #666666; font-weight: bold; text-decoration: none; }
 .post-list > li time { font-size: 0.875rem; color: #aaa; }
 @media screen and (max-width: 600px) { .post-list > li time { display: block; font-size: 0.875rem; } }
 
@@ -76,7 +79,7 @@ hr { border: none; border-top: 1px solid #f7f7f7; margin: 2rem auto; }
 /** Posts */
 .post-header { margin-bottom: 2rem; }
 
-.post-title { font-size: 2rem; letter-spacing: -1px; line-height: 1.2; margin-bottom: 0.5rem; font-weight: bold; }
+.post-title { font-size: 2rem; letter-spacing: -1px; line-height: 1.2; margin-bottom: 0.5rem; }
 
 .post-meta { font-size: 0.875rem; color: #aaa; }
 .post-meta a, .post-meta a:visited { color: #6a6a6a; }

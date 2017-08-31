@@ -5,13 +5,30 @@
     <description>Daily chores of life</description>
     <link>http://coderuse.faith/</link>
     <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 14:48:59 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 14:48:59 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Aug 2017 14:05:07 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Aug 2017 14:05:07 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Salary And Expenses And Other Stuff</title>
+        <description>&lt;p&gt;Today salary got deposited into the account. And as usual, most of the amount went to soothe the blaze of the credit cards. Every month I’m spending more than 70% of the total amount, I manage to earn in that time period. And it’s getting to an extreme limit. I’m not able to control this by any means. Not being able to concentrate on every aspect of nitty-gritty’s of daily chores, can’t able to think of total spent each time, going to buy something and eventually buy absurd things. Things, not required by me at all. Safe to say, I wouldn’t die without a couple of Swiss knife or various type of inter connecting connectors. But I buy them. Some times I actually forget that I’ve bought something. The shopping spree, when attacks, the excitement, and curiosity is for only that time. A few months back, ordered a bunch of Indian classics like Jataka, Kathasaritsagar etc. Still, I’ve not opened some of the packs. This happens with me. And after the emergence of online shopping in India, this kind of shopping spree attacks are happening quite often for me.&lt;/p&gt;
+
+&lt;p&gt;Another out-flow happens due to my affection for eating out. Really I can’t help it. Every day going out somewhere to eat something oily, something not-at-al-healthy, something I would not die without eating and hence making the pocket a little lighter. Currently, my father is here and he cooks in the morning. I come to office having a heavy meal and he packs tiffin for the office. And I don’t feel hungry at all in the noon. But when Ashok asks me out, just line up with him to go somewhere. For some time, I look like a bear in a mirror. I was telling this to him. But as usual, as all other Bengalis, he just said, we live to eat. Typical Bengali philosophy. No way to get out from this mindset. But need to really stop this over eating. Otherwise, I’ll transition into a real bear. And as Madhusudan Dutta said, “Who keeps the light on in the day for a mere joy, they may face a day, when the light will not find it’s path to reach them”. Really it doesn’t look good in a country, where more than 40% of the total population suffering malnutrition. Need to stop this. This is the last day of this month. Let me take a resolution, not to eat if not necessary.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/08/31/salary-and-expenses-and-other-stuff/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/08/31/salary-and-expenses-and-other-stuff/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>Deploying Faith</title>
         <description>&lt;p&gt;Thought that, GitHub pages will be able to handle the Jekyll page generation and deploy will be done automatically. Alas. My assumption came out to be incorrect. GitHub pages’ Jekyll generator works half heartedly only for the &lt;code class=&quot;highlighter-rouge&quot;&gt;index&lt;/code&gt; pages. Not for others. So, deleted the old repo and created a CI as in &lt;a href=&quot;http://coderuse.com&quot;&gt;coderuse.com&lt;/a&gt; in Bitbucket. Free CI on a need basis. Gives 500 mins for free to build on post check-in hook. Created password token and added in the pipeline variables. This is going to be the first check-in after the set-up. Let’s see if it works. Or will have to do more check-ins changing very little in files. Added the &lt;a href=&quot;https://gist.github.com/arnabdas/4c1e272d1aaff73a916e2c4bf8ee5325&quot;&gt;random&lt;/a&gt; Git commit messages. So, relieved that don’t have to come with new messages every time. Just &lt;code class=&quot;highlighter-rouge&quot;&gt;git random&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt; I may be wrong about GitHub pages. In my case the constructed url’s were wrong. But I’ve to check again by creating a site again. For now it’s working perfectly with the Bitbucket pipelines.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://coderuse.faith/2017/08/30/deploying-faith/</link>
