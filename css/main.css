@@ -70,6 +70,8 @@ a:hover { color: #1a1a1a; border-bottom: double #666666 1px; }
 /** Pages */
 .home section + section { margin-top: 2rem; max-width: 48rem; }
 
+.post-month:not(:first-child) { margin-top: 2em; }
+
 .post-list > li { margin-bottom: 0.5rem; list-style-type: none; margin-left: -2rem; }
 .post-list > li time { font-size: 0.875rem; color: #aaa; }
 @media screen and (max-width: 600px) { .post-list > li time { display: block; font-size: 0.875rem; } }
