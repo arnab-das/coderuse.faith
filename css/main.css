@@ -58,7 +58,7 @@ a, a:hover { color: #666666; text-decoration: none; border-bottom: dashed #66666
 a:hover { color: #1a1a1a; border-bottom: double #666666 1px; }
 
 /** Site header */
-.site-header { border-bottom: 1px solid #eaeaea; margin-top: -2rem; max-width: 48rem; }
+.site-header { margin-top: -2rem; max-width: 48rem; }
 .site-header p { font-size: 0.875rem; }
 
 .smallcap { font-size: 1.5rem; }
@@ -70,6 +70,7 @@ a:hover { color: #1a1a1a; border-bottom: double #666666 1px; }
 /** Pages */
 .home section + section { margin-top: 2rem; max-width: 48rem; }
 
+.post-month { border-bottom: 1px solid #eaeaea; }
 .post-month:not(:first-child) { margin-top: 2em; }
 
 .post-list > li { margin-bottom: 0.5rem; list-style-type: none; margin-left: -2rem; }
