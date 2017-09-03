@@ -1,12 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext);
+/* latin-ext */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 300; src: local("Raleway Light"), local("Raleway-Light"), url(https://fonts.gstatic.com/s/raleway/v11/ZKwULyCG95tk6mOqHQfRBCEAvth_LlrfE80CYdSH47w.woff2) format("woff2"); unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
+/* latin */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 300; src: local("Raleway Light"), local("Raleway-Light"), url(https://fonts.gstatic.com/s/raleway/v11/-_Ctzj9b56b8RgXW8FArifk_vArhqVIZ0nv9q090hN8.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
+/* latin-ext */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 400; src: local("Raleway"), local("Raleway-Regular"), url(https://fonts.gstatic.com/s/raleway/v11/yQiAaD56cjx1AooMTSghGfY6323mHUZFJMgTvxaG2iE.woff2) format("woff2"); unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
+/* latin */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 400; src: local("Raleway"), local("Raleway-Regular"), url(https://fonts.gstatic.com/s/raleway/v11/0dTEPzkLWceF7z0koJaX1A.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
+/* latin-ext */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 700; src: local("Raleway Bold"), local("Raleway-Bold"), url(https://fonts.gstatic.com/s/raleway/v11/WmVKXVcOuffP_qmCpFuyzSEAvth_LlrfE80CYdSH47w.woff2) format("woff2"); unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
+/* latin */
+@font-face { font-family: 'Raleway'; font-style: normal; font-weight: 700; src: local("Raleway Bold"), local("Raleway-Bold"), url(https://fonts.gstatic.com/s/raleway/v11/JbtMzqLaYbbbCL9X6EvaI_k_vArhqVIZ0nv9q090hN8.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
 /** Reset some basic elements */
 blockquote, body, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, ol, p, pre, ul { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 300 18px/1.5 "Roboto", sans-serif; color: #666666; background-color: #fff; }
+body { font: 300 18px/1.7 "Raleway", sans-serif; color: #444343; background-color: #fff; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
-blockquote, dl, figure, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul { margin-bottom: 1rem; }
+blockquote, dl, figure, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul { margin-bottom: 18px; margin-bottom: 1rem; }
 
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
@@ -14,10 +25,10 @@ img { max-width: 100%; vertical-align: middle; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 0.875rem; }
+figcaption { font-size: 15.75px; font-size: 0.875rem; }
 
 /** Lists */
-ol, ul { margin-left: 2rem; }
+ol, ul { margin-left: 36px; margin-left: 2rem; }
 
 li > ol, li > ul { margin-bottom: 0; }
 
@@ -29,7 +40,7 @@ a { color: #0645ad; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #6a6a6a; padding-left: 1rem; border-left: 2px solid #eaeaea; font-style: italic; font-size: 0.875rem; }
+blockquote { color: #6b6969; padding-left: 18px; padding-left: 1rem; border-left: 2px solid #e9e9e9; font-style: italic; font-size: 15.75px; font-size: 0.875rem; }
 blockquote > :last-child { margin-bottom: 0; }
 
 /** Code formatting */
@@ -37,66 +48,68 @@ code, pre { background-color: #fcfcfc; }
 
 code { padding: 1px 5px; font-family: Inconsolata, Monaco, Consolas, monospace; color: #f14e32; }
 
-pre { padding: 8px 12px; overflow-x: auto; border-left: 2px solid #eaeaea; }
+pre { padding: 8px 12px; overflow-x: auto; border-left: 2px solid #e9e9e9; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; tab-size: 4; color: inherit; }
 
 /** Table */
 table { width: 100%; max-width: 100%; border-collapse: separate; border-spacing: 0; table-layout: fixed; }
 
-td, th { padding: 0.5rem; line-height: inherit; }
+td, th { padding: 9px; padding: 0.5rem; line-height: inherit; }
 
-th { text-align: left; vertical-align: bottom; border-bottom: 2px solid #eaeaea; }
+th { text-align: left; vertical-align: bottom; border-bottom: 2px solid #e9e9e9; }
 
-td { vertical-align: top; border-bottom: 1px solid #eaeaea; }
+td { vertical-align: top; border-bottom: 1px solid #e9e9e9; }
 
 /** Horizontal rule */
-hr { border: none; border-top: 1px solid #f7f7f7; margin: 2rem auto; }
+hr { border: none; border-top: 1px solid #f6f6f6; margin: 2 auto; }
 
 /** Clearfix */
-a, a:hover { color: #666666; text-decoration: none; border-bottom: dashed #666666 1px; }
+a, a:hover { text-decoration: none; border-bottom: dashed #444343 1px; }
 
-a:hover { color: #1a1a1a; border-bottom: double #666666 1px; }
+a { color: #777676; }
+
+a:hover { color: black; border-bottom: double black 1px; }
 
 a.no-decoration, a.no-decoration:hover { border-bottom: none; }
 
 /** Site header */
-.site-header { margin-top: -2rem; max-width: 48rem; }
-.site-header p { font-size: 0.875rem; }
+.site-header { margin-top: -36px; margin-top: -2rem; max-width: 48; }
+.site-header p { font-size: 15.75px; font-size: 0.875rem; }
 
-.smallcap { font-size: 1.5rem; }
-.smallcap a, .smallcap a:hover { text-decoration: none; letter-spacing: 2px; background-color: #333; color: #eee; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.2rem; padding-bottom: 0.2rem; }
+.smallcap { font-size: 27px; font-size: 1.5rem; }
+.smallcap a, .smallcap a:hover { text-decoration: none; letter-spacing: 2px; background-color: #333; color: #eee; padding: 3.6px 9px; padding: 0.2rem 0.5rem; }
 
 /** Page content */
-.page-content { position: relative; padding: 2rem 1.5rem; margin: 1rem; box-sizing: border-box; max-width: 48rem; }
+.page-content { position: relative; padding: 36px 27px; padding: 2rem 1.5rem; margin: 18px; margin: 1rem; box-sizing: border-box; max-width: 864px; max-width: 48rem; }
 
 /** Pages */
-.home section + section { margin-top: 2rem; max-width: 48rem; }
+.home section + section { margin-top: 36px; margin-top: 2rem; max-width: 864px; max-width: 48rem; }
 
-.post-month { border-bottom: 1px solid #eaeaea; }
+.post-month { border-bottom: 1px solid #e9e9e9; }
 .post-month:not(:first-child) { margin-top: 2em; }
 
-.post-list > li { margin-bottom: 0.5rem; list-style-type: none; margin-left: -2rem; }
-.post-list > li time { font-size: 0.875rem; color: #aaa; }
-@media screen and (max-width: 600px) { .post-list > li time { display: block; font-size: 0.875rem; } }
+.post-list > li { margin-bottom: 9px; margin-bottom: 0.5rem; list-style-type: none; margin-left: -36px; margin-left: -2rem; }
+.post-list > li time { font-size: 15.75px; font-size: 0.875rem; color: #aaa9a9; }
+@media screen and (max-width: 600px) { .post-list > li time { display: block; font-size: 15.75px; font-size: 0.875rem; } }
 
 .tag-title { color: #0645ad; }
 
 /** Posts */
-.post-header { margin-bottom: 2rem; }
+.post-header { margin-bottom: 36px; margin-bottom: 2rem; }
 
-.post-title { font-size: 2rem; letter-spacing: -1px; line-height: 1.2; margin-bottom: 0.5rem; }
+.post-title { font-size: 36px; font-size: 2rem; letter-spacing: -1px; line-height: 1.2; margin-bottom: 9px; margin-bottom: 0.5rem; }
 
-.post-meta { font-size: 0.875rem; color: #aaa; }
+.post-meta { font-size: 15.75px; font-size: 0.875rem; color: #aaa9a9; }
 
-.post-content { margin-bottom: 2rem; }
-.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 { margin-top: 2rem; }
-.post-content h1, .post-content h2 { font-size: 2rem; }
-.post-content h3 { font-size: 1.5rem; }
-.post-content h4 { font-size: 1.25rem; }
-.post-content h5, .post-content h6 { font-size: 1rem; }
+.post-content { margin-bottom: 36px; margin-bottom: 2rem; }
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 { margin-top: 36px; margin-top: 2rem; }
+.post-content h1, .post-content h2 { font-size: 36px; font-size: 2rem; }
+.post-content h3 { font-size: 27px; font-size: 1.5rem; }
+.post-content h4 { font-size: 22.5px; font-size: 1.25rem; }
+.post-content h5, .post-content h6 { font-size: 18px; font-size: 1rem; }
 
-.copyright { margin-top: 2rem; font-size: 0.875rem; }
-.copyright p { color: #aaa; }
+.copyright { margin-top: 36px; margin-top: 2rem; font-size: 15.75px; font-size: 0.875rem; }
+.copyright p { color: #aaa9a9; }
 
 /* Solarized Light
 

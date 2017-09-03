@@ -5,9 +5,26 @@
     <description>Daily chores of life</description>
     <link>http://coderuse.faith/</link>
     <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Sep 2017 15:37:31 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2017 15:37:31 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Sep 2017 15:53:49 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Sep 2017 15:53:49 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Indieweb And Hosting Website</title>
+        <description>&lt;p&gt;First I had encountered the term &lt;em&gt;IndieWeb&lt;/em&gt; from the website of &lt;a href=&quot;http://anildash.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Anil Dash&lt;/a&gt;. At that time, didn’t give much attention to it. Recently I’ve started this blog. And started looking for some service for syndication of personal sites. There are lot of personal sites with a lot of interesting information. But there is no way to have a collective look at all the publicly available content on some topic. There should be a platform to do this syndication. &lt;a href=&quot;https://medium.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Medium&lt;/a&gt; is a great platform in this regard. But the main problem with &lt;em&gt;Medium&lt;/em&gt; is there is not much option to customize the site. But there is a great feature, that suggests similar posts for a post. And the suggested posts can come from different websites also. Certainly they are doing some ranking of the articles available on their platform to suggest the &lt;em&gt;similar&lt;/em&gt; posts. And this is great. For a reader, this is really an endless horizon. Google search can do this upto certain level. But it can’t capture the mood, context and aspect of an article to find the &lt;em&gt;similar&lt;/em&gt; posts. And above all, Google or any other search engines searches given keywords and ranks the found results. In the process actual &lt;em&gt;similar&lt;/em&gt; posts gets lost from the found results. And ofcourse this should not be in the scope of a general search engine.&lt;/p&gt;
+
+&lt;p&gt;I don’t much know or understand about &lt;a href=&quot;https://indieweb.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IndieWeb&lt;/a&gt;. But from their &lt;a href=&quot;https://indieweb.org/Getting_Started&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;wiki&lt;/a&gt;, it appears that they does some sort of syndication. I don’t know but even if they are not suggesting similar posts or syndicates comments, at least they try to encourage in making organised websites in terms of mark-ups at-least. Their &lt;a href=&quot;https://indieweb.org/IndieMark&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IndieMark&lt;/a&gt; is quite helpful in this regard. And I think if any website completes at least first five levels of the IndieMark standards, it will be a very good one. And their website is full of information about how to host, where to host, importantly what to host. It’s a fact that, lot of people can’t think of anything to write about. This is a great dilemma to start writing. My principle is that, just write, anything. Whatever you write, you will put some effort to write that. That is required. To become a good writer, you have to write. Continuously. It does not come out in public, how many drafts were discarded by a writer before one gets it’s way to the door of a publication house. Everyone gathers some expertise in their daily life. If all share their part experience, internet will be much more interesting to browse through.&lt;/p&gt;
+
+&lt;p&gt;Happy writing blogs. Have a great blog for everyone.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/09/03/indieweb-and-hosting-website/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/09/03/indieweb-and-hosting-website/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>Whom To Believe</title>
