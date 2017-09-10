@@ -5,9 +5,26 @@
     <description>Daily chores of life</description>
     <link>http://coderuse.faith/</link>
     <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2017 08:11:56 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2017 08:11:56 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2017 08:09:13 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2017 08:09:13 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Choosing Workstation And Daily Tools</title>
+        <description>&lt;p&gt;I’m a little freaky about choosing development environment, to work within. This includes the choice of OS, editor, local or remote etcetera. For some reason, I don’t want to work in local. I don’t know the exact reason behind it. But I like to work in the remote. If the connection sucks, that would be a problem, I know. But India is going towards big bandwidth millennia. So, I depend on the new promises for the long run. In Hyderabad, it’s now 40Mbps up to 150GB (after that 1Mbps) for Rs.641/- per month. I’m not saying it’s cheap. But, compared to the earlier days, like my first internet connection from BSNL &lt;em&gt;Broadband&lt;/em&gt; 1GB for Rs.250/- per month was a nightmare. Every two or three days, the cable got disconnected. And it was really a lucky day if I could get the lineman within 7 days to repair the disconnection. Somehow, I felt at that time that he did not wire the connection properly intentionally. To harass me. I don’t know what his benefit was in it. But I was sure. Eventually, I opted for the local cable operators for the internet connection. That was a &lt;em&gt;unlimited&lt;/em&gt; connection with advertised speed 512Kbps for, as far as I can remember Rs.600/- per month. With this connection, the wire didn’t disconnect every now and then. But, the connection really sucked. I at most got only 450-650Kbps. The only solace was that, great speed in downloading torrents. Around 10Mbps. Actually, the provider hosted some servers to peer for the torrents in the subscriber network. That also got disrupted after some inquiries from the Cyber Crime division of Kolkata police. In my office also the provided internet bandwidth was like a like very tight constipation. Downloading files more than 10MBs was blocked from the proxy. Yes, we had to use a proxy to connect to the internet. YouTube was allowed. But it was better to not watch it. Buffering made the experience real horrifying. I got the first taste of good internet after I came to Hyderabad. The city is good. Peaceful inhabitants. Cool weather. And good internet connection. And it got better. I started with the same plan, that I’m currently using. I started with FUP 10GB. Now it’s 150GB. For a reasonable internet surfer including viewing of reasonable quality videos, 150GB is more than enough. But If anyone likes best quality videos, they have higher plans also. Previously it was the reign of ACT. Now Hathway is also giving &lt;em&gt;unlimited&lt;/em&gt; internet with 50Mbps for only around Rs. 500/- (don’t know their exact packages). But I’m happy with ACT. If I require an unlimited connection, shall think about Hathway.&lt;/p&gt;
+
+&lt;p&gt;Written long completely off-topic. But internet connection is mandatory for working remotely. Currently, I’m working in a windows VM. I’m really liking working in this way. The main advantage is that the workstation does not need to be shut-down unless it becomes very slow. Does not need too much attention to maintaining the hardware. Power etc. Anywhere I can just pick up where I left. Surely it has drawbacks. That without the internet, I’ll not be connected. But who nowadays works without the internet.&lt;/p&gt;
+
+&lt;p&gt;Currently, I’m using &lt;em&gt;Visual Studio Code&lt;/em&gt; from Microsoft. It’s really a good editor. And with an array of plugins, it has become the default choice for me. And in-built NodeJs debugging is so awesome. Being a front-end developer, I don’t need much. But yes. I’ve installed Visual Studio, SQL Server in this VM. Don’t use them much. But they are there. If I need. I don’t know Java or Python or any compiled languages popular in the OpenSource community. I started my career with &lt;em&gt;C#&lt;/em&gt;. So, still now, got a soft corner for it. Probably if I am able to learn any other language, then will see. I know &lt;em&gt;JavaScript&lt;/em&gt; a little. But in my mind, that language is not for serious stuff. Until &lt;em&gt;JavaScript&lt;/em&gt; runs in a multi-threaded environment successfully, probably this mindset will continue to linger. Currently, I’m liking Golang. But for some reason could not gather enough enthusiasm to learn the language. Probably I’ll learn it in some time. &lt;em&gt;StackOverflow&lt;/em&gt; predicted that &lt;em&gt;Python&lt;/em&gt; is going to be the most popular language by 2019 at-least by the developer count. Actually, Python has acquired this much attention due to data science and machine learning. Python has become the de-facto choice for the new learners of data science and machine learning. And the language is quite easy to learn for new programmers. And in coming years machine learning along with the data science will appear as the most needed in any kind of business. So Python is becoming popular. One thing is there, Python is not compiled. But who cares. Most of the time the machine learning routines runs for days. After all, they are not like web apps. For web apps, I think Golang emerge as the first choice for creating backends. And &lt;em&gt;JavaScript&lt;/em&gt; will continue to reign the client side browser technologies with a monopoly.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/09/08/choosing-workstation-and-daily-tools/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/09/08/choosing-workstation-and-daily-tools/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>Writing Daily Makes Disciplined</title>
@@ -154,23 +171,6 @@
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://coderuse.faith/2017/08/30/deploying-faith/</link>
         <guid isPermaLink="true">http://coderuse.faith/2017/08/30/deploying-faith/</guid>
-        
-        <category>100-words</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dumping Ground And Other Stuff</title>
-        <description>&lt;p&gt;It’s a fact that, to feel high, it’s needed to do something substantial. Whatever that may be. Last weekend, I was feeling a bit low. Then on Monday, bought one absurd domain and configured that (which normal person hosts a domain with tld “.faith”!!!). And currently writing for that site. This site is going to be a kind of dumping ground for my mind. I’m more of a thinking type. Always thinking about something. How absurd that may be. But, whatever those are, I’m thinking about them. And if something is churning, it should find some way to out. Otherwise it creates a smelly surrounding.&lt;/p&gt;
-
-&lt;p&gt;Yesterday, Abhinav mentioned about &lt;a href=&quot;http://penzu.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Penzu&lt;/a&gt;. It’s a online diary simulator. I’ve also created something like a diary, &lt;a href=&quot;http://coderuse.com/memoirable&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;memoirable&lt;/a&gt;. But, diaries again remains with some secrecy in a dark hole. No air or sunlight or bacteria goes there to start the decomposition. That means, no one can see or read what I’ve written. It’s not a requirement, that this should be read by people. In fact I would prefer that, no one should read (what may be a better reason to host a domain, starting with “code”, with tld “.faith”). But there is a potential proximity to be read by another person. This is the ingredient to decompose my thoughts. The mere possibility. That’s required for the stupid mind. I’ve not even configured Disqus. But anyone can contact me. There is a link. But that link is not explicit for wach of the posts. This is the thing. We have to be open about what we are thinking. Otherwise our thoughts would just be within us and create a sting of negative vibes.&lt;/p&gt;
-
-&lt;p&gt;There is a reason, old people prefer the toilets outside of the house. We should keep our “dump”ing ground as far as possible. And within the visibility of lot of other people.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-        <link>http://coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</link>
-        <guid isPermaLink="true">http://coderuse.faith/2017/08/29/dumping-ground-and-other-stuff/</guid>
         
         <category>100-words</category>
         
