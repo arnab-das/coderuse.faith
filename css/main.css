@@ -322,6 +322,8 @@ a.no-decoration, a.no-decoration:hover { border-bottom: none; }
 
 .pull-left { float: left; }
 
+.hidden { display: none !important; visibility: collapse !important; visibility: hidden !important; }
+
 /** Site header */
 .site-header { margin-top: -36px; margin-top: -2rem; max-width: 48; }
 .site-header .nav { font-size: 15.75px; font-size: 0.875rem; margin-top: 14.598px; margin-top: 0.811rem; clear: both; float: left; }
