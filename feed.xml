@@ -5,9 +5,39 @@
     <description>Daily chores of life</description>
     <link>http://coderuse.faith/</link>
     <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Sep 2017 04:35:00 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2017 04:35:00 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2017 15:41:24 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 15:41:24 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>NCIS</title>
+        <description>&lt;p&gt;Recently I’ve been watching &lt;a href=&quot;https://en.wikipedia.org/wiki/NCIS_(TV_series)&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;NCIS&lt;/a&gt;. It’s just not a TV series, it’s a kind of journey of life. It’s adherence to pure principles of life makes it unique among the likes. The characters with their evolution through each episodes have been remarkably sketched with great care. Apart from exerting extraordinary efforts towards their duty, they are human, infact too much. When as a viewer we expect something heroic, they exhibit painstakingly common persona while doing their job. So they fail, they make mistakes. But they can’t imagine to leave behind a fellow traveler, whether be a marine or a most commoner. Everyone gets chance, importance. The way they should. It’s no miracle, it’s the most watched criminal investigation series in USA.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/10/15/ncis/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/10/15/ncis/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>New Entry</title>
+        <description>&lt;p&gt;Having the full wish to write every day, is not at all, all to write everyday. It takes a determination of different level. So after the start of writing spree, it has been quite a long time since the last entry. And a couple of entries are also back dated. At that time, it almost felt like doing pending homework. So discontinued. Writing doesn’t come as homework.&lt;/p&gt;
+
+&lt;p&gt;Since the last entry lot of things happened. Taken a few small projects personally. All of them discontinued due to lack of enthusiasm for running for a small duration. Some of the efforts included get up early and doing exercises also. Joke apart, personal projects, any type of project needs a lot of determination. No doubt. And the individuals, who finish, suppose open source or say runs some kind of common interest groups, are really respectable, admirable. Just now came across a post in Medium about starting. Good to read. Nothing new. But nicely arranged. &lt;a href=&quot;https://artplusmarketing.com/starting-things-is-scary-3755079bd8cf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;“Starting things is scary.”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Went to Kolkata during Durga puja. Saw a lot of familiar faces. Actually seeing someone after a long time feels somewhat warm. Can’t describe exactly. But warm. Even the person whom I didn’t like in the past, seems, what I can say, ‘lukewarm’?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/10/14/new-entry/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/10/14/new-entry/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>About Love</title>
@@ -125,40 +155,6 @@
         <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
         <link>http://coderuse.faith/2017/09/04/childhood-hearthrobs-and-others/</link>
         <guid isPermaLink="true">http://coderuse.faith/2017/09/04/childhood-hearthrobs-and-others/</guid>
-        
-        <category>100-words</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Indieweb And Hosting Website</title>
-        <description>&lt;p&gt;First I had encountered the term &lt;em&gt;IndieWeb&lt;/em&gt; from the website of &lt;a href=&quot;http://anildash.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Anil Dash&lt;/a&gt;. At that time, didn’t give much attention to it. Recently I’ve started this blog. And started looking for some service for syndication of personal sites. There are lot of personal sites with a lot of interesting information. But there is no way to have a collective look at all the publicly available content on some topic. There should be a platform to do this syndication. &lt;a href=&quot;https://medium.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Medium&lt;/a&gt; is a great platform in this regard. But the main problem with &lt;em&gt;Medium&lt;/em&gt; is there is not much option to customize the site. But there is a great feature, that suggests similar posts for a post. And the suggested posts can come from different websites also. Certainly they are doing some ranking of the articles available on their platform to suggest the &lt;em&gt;similar&lt;/em&gt; posts. And this is great. For a reader, this is really an endless horizon. Google search can do this upto certain level. But it can’t capture the mood, context and aspect of an article to find the &lt;em&gt;similar&lt;/em&gt; posts. And above all, Google or any other search engines searches given keywords and ranks the found results. In the process actual &lt;em&gt;similar&lt;/em&gt; posts gets lost from the found results. And ofcourse this should not be in the scope of a general search engine.&lt;/p&gt;
-
-&lt;p&gt;I don’t much know or understand about &lt;a href=&quot;https://indieweb.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IndieWeb&lt;/a&gt;. But from their &lt;a href=&quot;https://indieweb.org/Getting_Started&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;wiki&lt;/a&gt;, it appears that they does some sort of syndication. I don’t know but even if they are not suggesting similar posts or syndicates comments, at least they try to encourage in making organised websites in terms of mark-ups at-least. Their &lt;a href=&quot;https://indieweb.org/IndieMark&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IndieMark&lt;/a&gt; is quite helpful in this regard. And I think if any website completes at least first five levels of the IndieMark standards, it will be a very good one. And their website is full of information about how to host, where to host, importantly what to host. It’s a fact that, lot of people can’t think of anything to write about. This is a great dilemma to start writing. My principle is that, just write, anything. Whatever you write, you will put some effort to write that. That is required. To become a good writer, you have to write. Continuously. It does not come out in public, how many drafts were discarded by a writer before one gets it’s way to the door of a publication house. Everyone gathers some expertise in their daily life. If all share their part experience, internet will be much more interesting to browse through.&lt;/p&gt;
-
-&lt;p&gt;Happy writing blogs. Have a great blog for everyone.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-        <link>http://coderuse.faith/2017/09/03/indieweb-and-hosting-website/</link>
-        <guid isPermaLink="true">http://coderuse.faith/2017/09/03/indieweb-and-hosting-website/</guid>
-        
-        <category>100-words</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Whom To Believe</title>
-        <description>&lt;p&gt;Today something happened between my parents. Someone self invited to our home and my mom agreed to that. My mom knows very little about this person. Still she agreed to him and asked to come. But my father feared and opposed this and told her to do so. Ultimately my mom also agreed reluctantly and the guest is not coming.&lt;/p&gt;
-
-&lt;p&gt;Our ancestral root belongs to East Bengal. And by nature we are very much welcoming. We are not very rich. But one or two guests coming or staying in our home was not a very big deal. I had seen my grandfather actually liked this kind of unknown guests. He used to say that, these increases the connections among people from different regions, sects. But now a days frauds have increased to such a level, we are afraid of inviting someone unknown. Let alone let them stay in our home. The reality series like “Crime Patrol” and “Savdhan India” have made us more cautious, more suspicious. We can not believe any one by his or her face value. It’s very painful. And in the process of filtering out bad ones, probably we are losing some potential good friends.&lt;/p&gt;
-
-&lt;p&gt;This is a difficult time for our civilisation, society, families. No one believes no one. In the process of elimination, people are getting desparate to find someone to trust. Someone to believe. And this desparation some times put them in gruesome situations, when they become completely puzzled about what to do. Mother kills her own child to protect the identity of her lover. It’s said, a child to a mother is the most close one. It’s true upto certain limits in animals. Some mammals actually eat their child if they are hungry or if the cub interrupts their sexual engagements. But we are human. Expected with some moral and a sense that tells us, we are human. But these kind of crimes directly hurts the basic instinct of beliefs. An infant can believe whom, but it’s mother. Don’t know. This is seriously a difficult time in the face of humanity and civilisation. We need to come out of this. I don’t know how. But we have to.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-        <link>http://coderuse.faith/2017/09/02/whom-to-believe/</link>
-        <guid isPermaLink="true">http://coderuse.faith/2017/09/02/whom-to-believe/</guid>
         
         <category>100-words</category>
         
