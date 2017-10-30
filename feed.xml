@@ -5,9 +5,28 @@
     <description>Daily chores of life</description>
     <link>http://coderuse.faith/</link>
     <atom:link href="http://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Oct 2017 14:15:14 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Oct 2017 14:15:14 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 11:54:04 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 11:54:04 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Anonymous Shakespear</title>
+        <description>&lt;p&gt;Yesterday was watching “Anonymous”. Before this never knew of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Oxfordian_theory_of_Shakespeare_authorship&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Oxfordian Theory Of Shakespear Authorship&lt;/a&gt;. And truthfully, this play of mucking the name “Shakespear” is quite distasteful and proofs are mostly circumstantial. No doubt the earlier works, attributed to Shakespear are much more rich in literary excellence than the later ones. But we should not forget the fact that, Shakespear became the most popular, successful and hence one of the busiest playwrights of his time. Great work needs a great deal of time and patience. I think the downfall of quality and richness of creations are expected, as we see in the works of literary geniuses in modern days also. I’ve found only two facts that may go against the authenticity as the writer for the man known as Shakespear.&lt;/p&gt;
+
+&lt;p&gt;The fact that, there are no manuscripts written by Shakespear, may happen if the creator dictates his creation to scriptors and of-course at the same time, more than one copy can be made, and that may be required. He was a busy man. So, it was really convenient. But earlier days. Shouldn’t at least some drafts or final copies for the earlier creations be found? Whatever may be the fact, it’s hard to believe, that a playwright won’t relish writing his own piece for a single time. And if we want to believe that, every time he used to let someone copy his manuscript before giving someone, then also at least some specimen should there be to read. Afterall it’s only 400 years ago. And belongings of someone of his stature and popularity could have been well preserved by at-least the fans, if not by him. And also it’s hard to believe, such a romantic individual couldn’t scratch at least some words to give his fans, friends or well-wishers.&lt;/p&gt;
+
+&lt;p&gt;And the second doubt is, the plays exhibit an immense knowledge about courts, not only of England but also French and Italia at that time, from the author. And there is no such evidence that can prove Shakespear’s adjacency to such an elite society in his life, to equip him to depict the orders and atmosphere with such an elegance.&lt;/p&gt;
+
+&lt;p&gt;These are two discrepancies I’ve found to be hard to believe. Otherwise, in a way, this kind of discussions are of no use. For a long time those plays, poems, literary works are known to be written by Shakespear. Even if they are not actually, they are by common beliefs. And Edward De Vere was not just a vagrant to be imposed upon. Most of the plays were published in his lifetime. If he suppressed his identity, we should respect him. And try not to mucker a name, worshipped by all, who knows at least the name of the language “English” and disrespect the wish of a noble man.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://coderuse.faith/2017/10/30/anonymous-shakespear/</link>
+        <guid isPermaLink="true">http://coderuse.faith/2017/10/30/anonymous-shakespear/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>Path, Journey et all</title>
@@ -138,29 +157,6 @@
         <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
         <link>http://coderuse.faith/2017/09/07/writing-daily-makes-disciplined/</link>
         <guid isPermaLink="true">http://coderuse.faith/2017/09/07/writing-daily-makes-disciplined/</guid>
-        
-        <category>100-words</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Happy To Implement Search</title>
-        <description>&lt;p&gt;For the last couple of days, trying to implement a search functionality in this website. Now it’s complete. Feeling happy with this success. Implentation of this includes quite a few loose components. A search engine, a NodeJs app as an ACL, Nginx as reverse proxy and the Nginx configured with LetsEncrypt SSL.&lt;/p&gt;
-
-&lt;p&gt;First I tried to look for a simpler and easier solution. Got a few good posts also. The search can be done in the &lt;a href=&quot;http://frontendcollisionblog.com/javascript/jekyll/tutorial/2015/03/26/getting-started-with-a-search-engine-for-your-site-no-server-required.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;client side&lt;/a&gt; or in the &lt;a href=&quot;https://erudika.com/blog/2016/12/12/Implementing-full-text-search-for-your-static-site/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;server side&lt;/a&gt; or by configuring with &lt;a href=&quot;https://cse.google.com/cse/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Google Search Engine&lt;/a&gt; itself.&lt;/p&gt;
-
-&lt;p&gt;Configuring with Google Search engine is the simplest one. But the search result page redirects to Google’s domain. That’s not a very good experience. But for a quick and dirty fix, it’s quite a promising one.&lt;/p&gt;
-
-&lt;p&gt;Client side search is a very intuitive one. There are specific solutions for popular static site generators like Hugo, Hexo, Jekyll. This solution is acceptable for sites with preferably not-so-much content. Because it requires to generate a &lt;code class=&quot;highlighter-rouge&quot;&gt;json&lt;/code&gt; file with all the posts available in the site. And search is done in the client side by JavaScript. With a large number of posts, even if downloading of the &lt;code class=&quot;highlighter-rouge&quot;&gt;json&lt;/code&gt; file with &lt;code class=&quot;highlighter-rouge&quot;&gt;gzip&lt;/code&gt; compression enabled don’t appeared to be a big problem but searching in the client side may result the browser unresponsive for a small duration. I don’t know, whether my site is going to be that big or not, but I prefer to on safe side and implementing the search in the server side, would require at-least some effort, and learning new things. I always like to learn new things.&lt;/p&gt;
-
-&lt;p&gt;For server side searching first I attracted to &lt;a href=&quot;https://paraio.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ParaIO&lt;/a&gt;. That seemed to be full of features also. But while configuring the search, realized I need some sort of ACL. Means I need a server. So, if I require one server, why not use &lt;a href=&quot;https://www.elastic.co/products/elasticsearch&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Elastic Search&lt;/a&gt; on that server also. By that I will be able to use the same infrastructure in other sites also. Most of my sites are static.&lt;/p&gt;
-
-&lt;p&gt;So, took onen VPS. Deployed ElasticSearch. ElasticSearch is very light on run and easy to configure. Written one NodeJs app to parse and upload the posts to the ElasticSearch and one for the ACL. Installed Nginx and configured SSL with &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;LetsEncrypt&lt;/a&gt; and reverse proxy to the ACL. Now the search is available for &lt;a href=&quot;http://coderuse.faith&quot;&gt;faith&lt;/a&gt;. Probably I will write one or multiple posts in my technical blog. But that is the task for future. For today, let’s call it a day.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-        <link>http://coderuse.faith/2017/09/06/happy-to-implement-search/</link>
-        <guid isPermaLink="true">http://coderuse.faith/2017/09/06/happy-to-implement-search/</guid>
         
         <category>100-words</category>
         
