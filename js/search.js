@@ -20,7 +20,7 @@
     var searchQuery = getUrlParameter('q');
     //var endPoint = 'http://89.163.220.7:7539/api/search?q=' + searchQuery;
     // var endPoint = 'http://127.0.0.1:7539/api/search?q=' + searchQuery;
-    var endPoint = 'https://h7bpvvbp4uxw2gt3x8s3yzbu.dpefsvtf.com/edh4dnspf/api/search?q=' + searchQuery;
+    var endPoint = 'https://dpefsvtf.com/edh4dnspf/api/search?q=' + searchQuery;
 
     Handlebars.registerHelper('slugify', function(input) {
       if(!input) {
