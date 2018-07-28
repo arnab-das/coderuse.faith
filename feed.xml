@@ -5,9 +5,26 @@
     <description>Daily chores of life</description>
     <link>https://coderuse.faith/</link>
     <atom:link href="https://coderuse.faith/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Jul 2018 20:30:17 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 20:30:17 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Jul 2018 20:30:21 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Jul 2018 20:30:21 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Updating SSL</title>
+        <description>&lt;p&gt;After Chrome’s recent &lt;a href=&quot;https://www.blog.google/products/chrome/milestone-chrome-security-marking-http-not-secure/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;announcement&lt;/a&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt; for websites are becoming more mandatory. And it’s true that with the advent of Clouflare’s ambitious &lt;a href=&quot;https://blog.cloudflare.com/introducing-universal-ssl/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;universal ssl&lt;/a&gt; and &lt;a href=&quot;https://letsencrypt.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Let’s Encrypt&lt;/a&gt; using ssl has become affordable, after all it’s free. And there are lot of thirdparty tools to integrate ssl for popular web servers like Apache, Nginx.&lt;/p&gt;
+
+&lt;p&gt;I’m actually hosting my sites with ssl for quite a long time. Previously I used to buy cheapest &lt;code class=&quot;highlighter-rouge&quot;&gt;Domain Verified&lt;/code&gt; certificates. After I moved to GitHub Pages + Cloudflare DNS combination, the need for buying SSL certificate also went away. It’s actually very easy and convenient. Though with this, the connection is not fully encrypted until the origin server as GitHub does not provide SSL for custom domains. So, from the client machine to Cloudflare’s load balancers it’s secure. But there to origin servers hosted by GitHub are not secure. As there is no transaction endpoint associated with my site, I’m not worried about this.&lt;/p&gt;
+
+&lt;p&gt;Though &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt; has become the defacto of the web hosting industry, it’s fact that, secure connection has a overhead. And handshakes are slower compared to it’s plain counter part. And I’m also not understanding why this &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt; is becoming this big agenda. It’s making the websites slowers, web servers more resource hungry. There is absolutely no need for &lt;code class=&quot;highlighter-rouge&quot;&gt;https&lt;/code&gt; for simple blogs with some pages, like this one. And like my website, there are thousands of small blogs, using Cloudflare to serve “secure” content, while the connection to origin server not end-to-end encrypted. And browsers are not capable of detecting this flaw. Until I’m getting any solid reason to do this, I should say making every web site over ssl not only over cliched, but also just an “Eyewash”.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+        <link>https://coderuse.faith/2018/07/28/updating-ssl/</link>
+        <guid isPermaLink="true">https://coderuse.faith/2018/07/28/updating-ssl/</guid>
+        
+        <category>100-words</category>
+        
+        
+      </item>
     
       <item>
         <title>As I Am Now</title>
@@ -152,23 +169,6 @@
         <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
         <link>https://coderuse.faith/2017/10/15/ncis/</link>
         <guid isPermaLink="true">https://coderuse.faith/2017/10/15/ncis/</guid>
-        
-        <category>100-words</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Entry</title>
-        <description>&lt;p&gt;Having the full wish to write every day, is not at all, all to write everyday. It takes a determination of different level. So after the start of writing spree, it has been quite a long time since the last entry. And a couple of entries are also back dated. At that time, it almost felt like doing pending homework. So discontinued. Writing doesn’t come as homework.&lt;/p&gt;
-
-&lt;p&gt;Since the last entry lot of things happened. Taken a few small projects personally. All of them discontinued due to lack of enthusiasm for running for a small duration. Some of the efforts included get up early and doing exercises also. Joke apart, personal projects, any type of project needs a lot of determination. No doubt. And the individuals, who finish, suppose open source or say runs some kind of common interest groups, are really respectable, admirable. Just now came across a post in Medium about starting. Good to read. Nothing new. But nicely arranged. &lt;a href=&quot;https://artplusmarketing.com/starting-things-is-scary-3755079bd8cf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;“Starting things is scary.”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Went to Kolkata during Durga puja. Saw a lot of familiar faces. Actually seeing someone after a long time feels somewhat warm. Can’t describe exactly. But warm. Even the person whom I didn’t like in the past, seems, what I can say, ‘lukewarm’?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-        <link>https://coderuse.faith/2017/10/14/new-entry/</link>
-        <guid isPermaLink="true">https://coderuse.faith/2017/10/14/new-entry/</guid>
         
         <category>100-words</category>
         
